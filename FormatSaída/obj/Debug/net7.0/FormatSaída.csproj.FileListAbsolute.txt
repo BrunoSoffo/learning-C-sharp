@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\bin\Debug\net7.0\FormatSaída.exe
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\bin\Debug\net7.0\FormatSaída.deps.json
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\bin\Debug\net7.0\FormatSaída.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\bin\Debug\net7.0\FormatSaída.dll
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\bin\Debug\net7.0\FormatSaída.pdb
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\FormatSaída.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\FormatSaída.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\FormatSaída.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\FormatSaída.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\FormatSaída.dll
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\refint\FormatSaída.dll
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\FormatSaída.pdb
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\FormatSaída.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\FormatSaída\obj\Debug\net7.0\ref\FormatSaída.dll
