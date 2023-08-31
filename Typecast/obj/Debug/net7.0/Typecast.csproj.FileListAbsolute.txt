@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\Typecast\bin\Debug\net7.0\Typecast.exe
+D:\Documentos\GitHub\learning-C-sharp\Typecast\bin\Debug\net7.0\Typecast.deps.json
+D:\Documentos\GitHub\learning-C-sharp\Typecast\bin\Debug\net7.0\Typecast.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\Typecast\bin\Debug\net7.0\Typecast.dll
+D:\Documentos\GitHub\learning-C-sharp\Typecast\bin\Debug\net7.0\Typecast.pdb
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\Typecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\Typecast.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\Typecast.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\Typecast.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\Typecast.dll
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\refint\Typecast.dll
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\Typecast.pdb
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\Typecast.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\Typecast\obj\Debug\net7.0\ref\Typecast.dll
