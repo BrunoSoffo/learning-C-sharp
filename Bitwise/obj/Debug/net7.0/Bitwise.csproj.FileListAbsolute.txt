@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\bin\Debug\net7.0\Bitwise.exe
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\bin\Debug\net7.0\Bitwise.deps.json
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\bin\Debug\net7.0\Bitwise.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\bin\Debug\net7.0\Bitwise.dll
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\bin\Debug\net7.0\Bitwise.pdb
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\Bitwise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\Bitwise.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\Bitwise.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\Bitwise.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\Bitwise.dll
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\refint\Bitwise.dll
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\Bitwise.pdb
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\Bitwise.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\Bitwise\obj\Debug\net7.0\ref\Bitwise.dll

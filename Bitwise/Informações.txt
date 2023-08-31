@@ -1,0 +1,13 @@
+O Bitwise é uma forma de movimentar os bits de um dado binário.
+Deve se manter em mente que ao mover um conjunto de bits para a esquerda, o valor do dado será multiplicado
+Movendo um conjunto de dados para a direita, o valor do dado cairá pela metade
+
+EX:
+
+Movendo para esquerda
+00001010 = 10
+00010100 = 20
+
+Movendo para direita
+00011010 = 26
+00001101 = 13
