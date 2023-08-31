@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\Enumeradores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\Enumeradores.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\Enumeradores.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\Enumeradores.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\bin\Debug\net7.0\Enumeradores.exe
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\bin\Debug\net7.0\Enumeradores.deps.json
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\bin\Debug\net7.0\Enumeradores.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\bin\Debug\net7.0\Enumeradores.dll
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\bin\Debug\net7.0\Enumeradores.pdb
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\Enumeradores.dll
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\refint\Enumeradores.dll
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\Enumeradores.pdb
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\Enumeradores.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\Enumeradores\obj\Debug\net7.0\ref\Enumeradores.dll

@@ -1,0 +1,3 @@
+ As enumerações (enum) e outras declarações de tipo devem ser colocadas dentro de um namespace ou diretamente 
+ no escopo de uma classe ou estrutura. Se você está tentando usar o enum no nível superior do arquivo, 
+ você precisa colocá-lo dentro de um namespace.
