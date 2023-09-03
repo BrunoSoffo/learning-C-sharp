@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
