@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\bin\Debug\net7.0\Matrizes.exe
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\bin\Debug\net7.0\Matrizes.deps.json
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\bin\Debug\net7.0\Matrizes.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\bin\Debug\net7.0\Matrizes.dll
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\bin\Debug\net7.0\Matrizes.pdb
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\Matrizes.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\Matrizes.dll
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\refint\Matrizes.dll
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\Matrizes.pdb
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\Matrizes.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\Matrizes\obj\Debug\net7.0\ref\Matrizes.dll
