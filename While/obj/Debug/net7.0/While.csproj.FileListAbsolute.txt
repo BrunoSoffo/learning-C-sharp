@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\While\bin\Debug\net7.0\While.exe
+D:\Documentos\GitHub\learning-C-sharp\While\bin\Debug\net7.0\While.deps.json
+D:\Documentos\GitHub\learning-C-sharp\While\bin\Debug\net7.0\While.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\While\bin\Debug\net7.0\While.dll
+D:\Documentos\GitHub\learning-C-sharp\While\bin\Debug\net7.0\While.pdb
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\While.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\While.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\While.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\While.dll
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\refint\While.dll
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\While.pdb
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\While.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\While\obj\Debug\net7.0\ref\While.dll
