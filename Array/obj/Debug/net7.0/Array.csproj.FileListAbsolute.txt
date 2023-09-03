@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\Array\bin\Debug\net7.0\Array.exe
+D:\Documentos\GitHub\learning-C-sharp\Array\bin\Debug\net7.0\Array.deps.json
+D:\Documentos\GitHub\learning-C-sharp\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\Array\bin\Debug\net7.0\Array.dll
+D:\Documentos\GitHub\learning-C-sharp\Array\bin\Debug\net7.0\Array.pdb
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\Array.dll
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\refint\Array.dll
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\Array.pdb
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\Array\obj\Debug\net7.0\ref\Array.dll
