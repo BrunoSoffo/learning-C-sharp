@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\ForEach\bin\Debug\net7.0\ForEach.exe
+D:\Documentos\GitHub\learning-C-sharp\ForEach\bin\Debug\net7.0\ForEach.deps.json
+D:\Documentos\GitHub\learning-C-sharp\ForEach\bin\Debug\net7.0\ForEach.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\ForEach\bin\Debug\net7.0\ForEach.dll
+D:\Documentos\GitHub\learning-C-sharp\ForEach\bin\Debug\net7.0\ForEach.pdb
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\ForEach.dll
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\refint\ForEach.dll
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\ForEach.pdb
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\ForEach\obj\Debug\net7.0\ref\ForEach.dll
