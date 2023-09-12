@@ -5,7 +5,7 @@ int[,] matriz=new int[2,5]{{11,22,00,44,55},{66,77,88,99,00}};
 
 Random random=new Random(); //gerar números aleatórios
 for(int i=0; i<v1.Length;i++){
-    v1[1]=random.Next(50); //geração de valores de 0 a 49
+    v1[i]=random.Next(50); //geração de valores de 0 a 49
 }
 
 Console.WriteLine("Elementos do vetor  1");
@@ -77,3 +77,43 @@ Console.WriteLine("LastIndexOf");
 int indice2=Array.LastIndexOf(v1,3);
 Console.WriteLine("Índice do primeiro valor 33: {0}", indice2);
 Console.WriteLine("----------------------------------------------");
+
+//public static void Reverse(array); // esse método inverte as ordens dos elementos de um array
+Array.Reverse(v1);
+foreach(int n in v1)
+{
+    Console.WriteLine(n);
+}
+
+//public void SetValue(object valor, long pos); // permite definir um valor em uma posição no array
+v2.SetValue(99,0); //setando 99 para a pos 0
+for(int i=0; i<v2.Length;i++) //setando 0 para todas as posições
+{
+    v2.SetValue(0,i);
+}
+Console.WriteLine("Vetor 2");
+foreach(int n in v2)
+{
+    Console.WriteLine(n);
+}
+
+//public static void Sort(array); // ordena em ordem crescente os elementos de uma lista
+//para fazer decrescente, use os métodos Sort e depois o Reverse
+Array.Sort(v1);
+Array.Sort(v2);
+Array.Sort(v3);
+Console.WriteLine("Vetor 1");
+foreach(int n in v1)
+{
+    Console.WriteLine(n);
+}
+Console.WriteLine("\nVetor 2");
+foreach(int n in v2)
+{
+    Console.WriteLine(n);
+}
+Console.WriteLine("\nVetor 3");
+foreach(int n in v3)
+{
+    Console.WriteLine(n);
+}
