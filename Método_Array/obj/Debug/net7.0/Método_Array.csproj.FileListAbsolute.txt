@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\bin\Debug\net7.0\Método_Array.exe
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\bin\Debug\net7.0\Método_Array.deps.json
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\bin\Debug\net7.0\Método_Array.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\bin\Debug\net7.0\Método_Array.dll
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\bin\Debug\net7.0\Método_Array.pdb
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\Método_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\Método_Array.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\Método_Array.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\Método_Array.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\Método_Array.dll
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\refint\Método_Array.dll
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\Método_Array.pdb
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\Método_Array.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\Método_Array\obj\Debug\net7.0\ref\Método_Array.dll
