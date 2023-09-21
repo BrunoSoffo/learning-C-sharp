@@ -1,0 +1,14 @@
+D:\Documentos\GitHub\learning-C-sharp\teste\bin\Debug\net7.0\teste.exe
+D:\Documentos\GitHub\learning-C-sharp\teste\bin\Debug\net7.0\teste.deps.json
+D:\Documentos\GitHub\learning-C-sharp\teste\bin\Debug\net7.0\teste.runtimeconfig.json
+D:\Documentos\GitHub\learning-C-sharp\teste\bin\Debug\net7.0\teste.dll
+D:\Documentos\GitHub\learning-C-sharp\teste\bin\Debug\net7.0\teste.pdb
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\teste.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\teste.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\teste.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\teste.dll
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\refint\teste.dll
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\teste.pdb
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\teste.genruntimeconfig.cache
+D:\Documentos\GitHub\learning-C-sharp\teste\obj\Debug\net7.0\ref\teste.dll

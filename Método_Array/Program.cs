@@ -14,7 +14,7 @@ foreach (int n in v1)
     Console.WriteLine(n);
 }
 
-//public static int BinarySearch(array,valor); // é um método da classe Array q retorna um int ralacionada a posição do elemento desejado (Obs: se o elemento n for encontrado o result é -1) 
+//public static int BinarySearch(array,valor); // é um método da classe Array q retorna um int relacionada a posição do elemento desejado (Obs: se o elemento n for encontrado o result é -1) 
 Console.WriteLine("BinarySearch");
 int procurado=33;
 int pos=Array.BinarySearch(v1,procurado);
@@ -45,7 +45,7 @@ long qtdeElementosVetor=v1.GetLongLength(0);
 Console.WriteLine("Quantidade de elemnetos {0}", qtdeElementosVetor);
 Console.WriteLine("----------------------------------------------");
 
-//public int GetLowerBound(dimensão); // retorna o menor indice do array ouu matriz. Quando for um array, a dimensão será 0, de for matriz vc deverá indicar a dimensão
+//public int GetLowerBound(dimensão); // retorna o menor indice do array ou matriz. Quando for um array, a dimensão será 0, de for matriz vc deverá indicar a dimensão
 Console.WriteLine("GetLowerBound");
 int MenorIndiceVetor=v1.GetLowerBound(0);
 int MenorIndiceMatriz_D1=matriz.GetLowerBound(1);

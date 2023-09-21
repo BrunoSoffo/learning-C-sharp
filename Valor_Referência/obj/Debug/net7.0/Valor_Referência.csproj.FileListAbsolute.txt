@@ -1,0 +1,4 @@
+D:\Documentos\GitHub\learning-C-sharp\Valor_Referência\obj\Debug\net7.0\Valor_Referência.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\learning-C-sharp\Valor_Referência\obj\Debug\net7.0\Valor_Referência.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\learning-C-sharp\Valor_Referência\obj\Debug\net7.0\Valor_Referência.AssemblyInfo.cs
+D:\Documentos\GitHub\learning-C-sharp\Valor_Referência\obj\Debug\net7.0\Valor_Referência.csproj.CoreCompileInputs.cache
